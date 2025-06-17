@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ransom-alpha-swarms-mcpserver-badge.png)](https://mseep.ai/app/ransom-alpha-swarms-mcpserver)
+
 # 🐝 Swarms MCP Documentation Server
 
 <p align="center">
